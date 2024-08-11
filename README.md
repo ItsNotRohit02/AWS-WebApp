@@ -1,4 +1,4 @@
-# Web Application Deployment on AWS with Elastic Beanstalk
+# Web Application Deployment on AWS
 
 This repository contains the code and infrastructure setup for deploying a scalable and secure web application using AWS services, including Elastic Beanstalk, Amazon RDS, Amazon ElastiCache, and Amazon MQ. The project demonstrates a complete cloud infrastructure deployment, running within a custom VPC.
 
