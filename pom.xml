@@ -4,7 +4,7 @@
     <groupId>com.itsnotrohit</groupId>
     <artifactId>Sample</artifactId>
     <packaging>war</packaging>
-    <version>v10</version>
+    <version>v1</version>
     <name>Sample Webapp</name>
     <url>http://maven.apache.org</url>
     <properties>
